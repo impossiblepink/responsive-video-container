@@ -1,0 +1,21 @@
+<!-- this is the css styling for the video container -->
+<!-- wrap this in <style> tags -->
+
+.co-fullscreen-video-container {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+}
+
+.co-fullscreen-video-container video {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -1;
+}
+
+.co-videoHeight {
+  min-height: 84vh;
+}
