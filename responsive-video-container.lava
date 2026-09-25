@@ -1,0 +1,30 @@
+<div>
+    <div class="co-fullscreen-video-container">
+    
+        <video
+            class="bg-video-hfg"
+            autoplay
+            loop
+            muted
+            playsinline
+            preload="auto">
+        </video>
+    
+        <div class="co-fullscreen-video-content">
+            <div class="container d-flex align-items-center justify-content-center flex-column co-videoHeight my-5">
+      <!-- **** Content goes here *** -->
+                        <h1>Welcome to Chase Oaks</h1>
+                                
+                            <div class="row d-flex justify-content-center mt-1">
+                                <a href="/locations"
+                                class="btn btn-primary">
+                                Times & Locations
+                                </a>
+                            </div>
+      <!-- **** End Content Section *** -->                            
+                      
+            </div>
+        </div>
+    
+    </div>
+</div>
